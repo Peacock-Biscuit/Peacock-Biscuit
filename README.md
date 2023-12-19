@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on A/B testing experimentation.
+- 🌱 I’m currently learning C/C++.
+- 👯 I’m looking to collaborate on data projects.
+- 📫 How to reach me: ...
+- ⚡ Fun fact: According to Robert J. Gorlin, approximately 10 percent of the general population can perform an act which is the ability to touch the tip of the nose with the tongue that is called Gorlin sign. I'm one of them.
+
+
 <!--
 **jimbo-liu/jimbo-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
