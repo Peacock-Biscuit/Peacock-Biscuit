@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on A/B testing experimentation.
+- 🔭 I’m currently working on A/B testing experimentation and server optimization.
 - 🌱 I’m currently learning C/C++ and Computer Networks.
 - 👯 I’m looking to collaborate on data-related projects.
 - 📫 How to reach me: chen-yang.liu@outlook.com
