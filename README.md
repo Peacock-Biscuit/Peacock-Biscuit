@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on A/B testing experimentation and server optimization.
 - 🌱 I’m currently learning C/C++ and Computer Networks.
 - 👯 I’m looking to collaborate on data-related projects.
-- 📫 How to reach me: chen-yang.liu@outlook.com
 - ⚡ Fun fact: According to Robert J. Gorlin, I'm one of approximately 10 percent of the general population who can perform an act which is the ability to touch the tip of the nose with the tongue that is called Gorlin sign.
 
 
